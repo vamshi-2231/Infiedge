@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Infiedge/static/css/main.e6c13ad2.css",
+    "main.js": "/Infiedge/static/js/main.7a7a11c0.js",
+    "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
+    "index.html": "/Infiedge/index.html",
+    "main.e6c13ad2.css.map": "/Infiedge/static/css/main.e6c13ad2.css.map",
+    "main.7a7a11c0.js.map": "/Infiedge/static/js/main.7a7a11c0.js.map",
+    "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a7a11c0.js"
+  ]
+}
