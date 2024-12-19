@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/InfiEdge/static/css/main.7ee9c2f4.css",
-    "main.js": "/InfiEdge/static/js/main.3e075e73.js",
-    "static/js/488.dcf038ad.chunk.js": "/InfiEdge/static/js/488.dcf038ad.chunk.js",
-    "static/media/team-1.jpg": "/InfiEdge/static/media/team-1.54da14199f33aae1f630.jpg",
-    "static/media/hero-banner4.png": "/InfiEdge/static/media/hero-banner4.4f7b323ba2216bb1203f.png",
-    "static/media/about-banner.png": "/InfiEdge/static/media/about-banner.03328164fb1cc72c06a9.png",
-    "static/media/logo_final4.png": "/InfiEdge/static/media/logo_final4.e978de9d9cb473a6d838.png",
-    "static/media/team-4.jpg": "/InfiEdge/static/media/team-4.53d10b858d52033b239a.jpg",
-    "static/media/team-3.jpg": "/InfiEdge/static/media/team-3.0ab3cb9c29175a17220c.jpg",
-    "static/media/hero-pattern.svg": "/InfiEdge/static/media/hero-pattern.7604235201fddd7b2b40.svg",
-    "static/media/team-2.jpg": "/InfiEdge/static/media/team-2.382291514158912ccd2f.jpg",
-    "index.html": "/InfiEdge/index.html",
-    "main.7ee9c2f4.css.map": "/InfiEdge/static/css/main.7ee9c2f4.css.map",
-    "main.3e075e73.js.map": "/InfiEdge/static/js/main.3e075e73.js.map",
-    "488.dcf038ad.chunk.js.map": "/InfiEdge/static/js/488.dcf038ad.chunk.js.map"
+    "main.css": "/Infiedge/static/css/main.ae52c0b2.css",
+    "main.js": "/Infiedge/static/js/main.00b3a0e6.js",
+    "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
+    "static/media/team-1.jpg": "/Infiedge/static/media/team-1.54da14199f33aae1f630.jpg",
+    "static/media/hero-banner4.png": "/Infiedge/static/media/hero-banner4.4f7b323ba2216bb1203f.png",
+    "static/media/about-banner.png": "/Infiedge/static/media/about-banner.03328164fb1cc72c06a9.png",
+    "static/media/logo_final4.png": "/Infiedge/static/media/logo_final4.e978de9d9cb473a6d838.png",
+    "static/media/team-4.jpg": "/Infiedge/static/media/team-4.53d10b858d52033b239a.jpg",
+    "static/media/team-3.jpg": "/Infiedge/static/media/team-3.0ab3cb9c29175a17220c.jpg",
+    "static/media/hero-pattern.svg": "/Infiedge/static/media/hero-pattern.7604235201fddd7b2b40.svg",
+    "static/media/team-2.jpg": "/Infiedge/static/media/team-2.382291514158912ccd2f.jpg",
+    "index.html": "/Infiedge/index.html",
+    "main.ae52c0b2.css.map": "/Infiedge/static/css/main.ae52c0b2.css.map",
+    "main.00b3a0e6.js.map": "/Infiedge/static/js/main.00b3a0e6.js.map",
+    "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ee9c2f4.css",
-    "static/js/main.3e075e73.js"
+    "static/css/main.ae52c0b2.css",
+    "static/js/main.00b3a0e6.js"
   ]
 }
