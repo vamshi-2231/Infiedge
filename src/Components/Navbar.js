@@ -78,7 +78,8 @@ const Navbar = () => {
             href="https://wa.me/+917670875823?text=Let's%20Talk%20👋"
             className="btn-outline"
           >
-            Let's Connect
+            Let's Connect <i class="fa fa-whatsapp"></i>
+
           </a>
           {isNavbarActive && (
             <div className="overlay" onClick={() => setNavbarActive(false)} aria-hidden="true"></div>
