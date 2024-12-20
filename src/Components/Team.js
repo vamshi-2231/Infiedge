@@ -13,7 +13,7 @@ export default function Team() {
     { id: 3, name: "JEEVAN SAI NABBA", designation: "COO (Chief operating officer)", photo: team_3 },
     { id: 4, name: "G.Hemanth", designation: "CFO", photo: team_4 },
     { id: 5, name: "Mamindla Vamshi", designation: "FULL STACK DEVELOPER", photo: team_5 },
-    { id: 6, name: "Nallagonda Akhil", designation: "CFO", photo: team_6 },
+    // { id: 6, name: "Nallagonda Akhil", designation: "CFO", photo: team_6 },
 
   ];
 
