@@ -1226,7 +1226,7 @@ body {
 \*-----------------------------------*/
 .team {
   padding: 80px 0;
-  background-color: #f8f9fa; /* Light background for professional look */
+  background-color: #fff; /* Light background for professional look */
 }
 
 .team .text-center {
@@ -1265,7 +1265,7 @@ body {
 }
 
 .team .team-card {
-  background-color: #fff;
+  background-color: #f8f9fa;;
   border-radius: 12px;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
