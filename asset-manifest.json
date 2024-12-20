@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Infiedge/static/css/main.180603f4.css",
-    "main.js": "/Infiedge/static/js/main.0c8cba5f.js",
+    "main.js": "/Infiedge/static/js/main.93e3d3d8.js",
     "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
     "static/media/service-8.png": "/Infiedge/static/media/service-8.62c67972d29baed3807e.png",
     "static/media/team-1.jpg": "/Infiedge/static/media/team-1.54da14199f33aae1f630.jpg",
@@ -24,11 +24,11 @@
     "static/media/team-2.jpg": "/Infiedge/static/media/team-2.382291514158912ccd2f.jpg",
     "index.html": "/Infiedge/index.html",
     "main.180603f4.css.map": "/Infiedge/static/css/main.180603f4.css.map",
-    "main.0c8cba5f.js.map": "/Infiedge/static/js/main.0c8cba5f.js.map",
+    "main.93e3d3d8.js.map": "/Infiedge/static/js/main.93e3d3d8.js.map",
     "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180603f4.css",
-    "static/js/main.0c8cba5f.js"
+    "static/js/main.93e3d3d8.js"
   ]
 }
