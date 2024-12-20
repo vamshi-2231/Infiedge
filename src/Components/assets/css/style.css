@@ -1084,7 +1084,7 @@ body {
    * HERO
    */
 
-  .hero { text-align: left; }
+  .hero { text-align: justify; }
 
   .hero .container {
     grid-template-columns: 1fr 0.7fr;
