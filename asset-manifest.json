@@ -1,12 +1,21 @@
 {
   "files": {
     "main.css": "/Infiedge/static/css/main.180603f4.css",
-    "main.js": "/Infiedge/static/js/main.667d6c61.js",
+    "main.js": "/Infiedge/static/js/main.0c8cba5f.js",
     "static/js/488.dcf038ad.chunk.js": "/Infiedge/static/js/488.dcf038ad.chunk.js",
+    "static/media/service-8.png": "/Infiedge/static/media/service-8.62c67972d29baed3807e.png",
     "static/media/team-1.jpg": "/Infiedge/static/media/team-1.54da14199f33aae1f630.jpg",
+    "static/media/service-9.png": "/Infiedge/static/media/service-9.18048ca41a748ad22657.png",
     "static/media/hero-banner4.png": "/Infiedge/static/media/hero-banner4.4f7b323ba2216bb1203f.png",
+    "static/media/service-5.png": "/Infiedge/static/media/service-5.91053fa7517690f034b6.png",
+    "static/media/service-3.png": "/Infiedge/static/media/service-3.a7ac59a9085b3a4134fd.png",
+    "static/media/service-4.png": "/Infiedge/static/media/service-4.269a7d83b6a128d73a26.png",
+    "static/media/service-2.png": "/Infiedge/static/media/service-2.f1ebff565f94dba1324e.png",
+    "static/media/service-6.png": "/Infiedge/static/media/service-6.f91d198aeb3a15ce041b.png",
     "static/media/about-banner.png": "/Infiedge/static/media/about-banner.03328164fb1cc72c06a9.png",
+    "static/media/service-7.png": "/Infiedge/static/media/service-7.c195db31d102ba6d6cc4.png",
     "static/media/team-5.jpg": "/Infiedge/static/media/team-5.eb4d923a41a5f00ad1bf.jpg",
+    "static/media/service-1.png": "/Infiedge/static/media/service-1.042d9466c9b773cd3b64.png",
     "static/media/logo_final4.png": "/Infiedge/static/media/logo_final4.e978de9d9cb473a6d838.png",
     "static/media/team-4.jpg": "/Infiedge/static/media/team-4.53d10b858d52033b239a.jpg",
     "static/media/team-6.jpg": "/Infiedge/static/media/team-6.2ed152b3f908da0e814d.jpg",
@@ -15,11 +24,11 @@
     "static/media/team-2.jpg": "/Infiedge/static/media/team-2.382291514158912ccd2f.jpg",
     "index.html": "/Infiedge/index.html",
     "main.180603f4.css.map": "/Infiedge/static/css/main.180603f4.css.map",
-    "main.667d6c61.js.map": "/Infiedge/static/js/main.667d6c61.js.map",
+    "main.0c8cba5f.js.map": "/Infiedge/static/js/main.0c8cba5f.js.map",
     "488.dcf038ad.chunk.js.map": "/Infiedge/static/js/488.dcf038ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180603f4.css",
-    "static/js/main.667d6c61.js"
+    "static/js/main.0c8cba5f.js"
   ]
 }
