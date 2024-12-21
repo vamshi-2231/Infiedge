@@ -375,10 +375,11 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  background-color: var(--mint-cream);
+  background-color: var(--mint-cream); 
+    /* text-align: center; */
   padding-block-start: calc(var(--section-padding) + 50px);
+
   overflow: hidden;
-  /* text-align: center; */
 }
 
 .hero .container {
