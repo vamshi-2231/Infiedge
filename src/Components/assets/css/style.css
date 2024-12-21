@@ -376,9 +376,8 @@ body {
 
 .hero {
   background-color: var(--mint-cream); 
-    /* text-align: center; */
   padding-block-start: calc(var(--section-padding) + 50px);
-
+    text-align: left ;
   overflow: hidden;
 }
 
