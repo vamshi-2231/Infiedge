@@ -514,7 +514,7 @@ body {
 .service-card {
   height: 100%;
   padding: 30px 25px;
-  /* text-align: center; */
+  text-align: left;
   box-shadow: var(--shadow-1);
 }
 
