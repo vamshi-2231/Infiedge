@@ -377,7 +377,7 @@ body {
 .hero {
   background-color: var(--mint-cream);
   padding-block-start: calc(var(--section-padding) + 50px);
-  text-align: center;
+  /* text-align: center; */
   overflow: hidden;
 }
 
@@ -514,7 +514,7 @@ body {
 .service-card {
   height: 100%;
   padding: 30px 25px;
-  text-align: center;
+  /* text-align: center; */
   box-shadow: var(--shadow-1);
 }
 
