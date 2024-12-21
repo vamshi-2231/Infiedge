@@ -4,16 +4,16 @@ import team_2 from './assets/images/team-2.jpg';
 import team_3 from './assets/images/team-3.jpg';
 import team_4 from './assets/images/team-4.jpg';
 import team_5 from './assets/images/team-5.jpg';
-import team_6 from './assets/images/team-6.jpg';
+// import team_6 from './assets/images/team-6.jpg';
 
 export default function Team() {
   const teamMembers = [
     { id: 1, name: "PENTAPATI VENKATA SURYA KAMAL", designation: "FOUNDER, CEO, FULL STACK DEVELOPER", photo: team_1 },
     { id: 2, name: "SRI VENKAT BORA", designation: "CO- Founder, CMO", photo: team_2 },
     { id: 3, name: "JEEVAN SAI NABBA", designation: "COO (Chief operating officer)", photo: team_3 },
-    { id: 4, name: "G.Hemanth", designation: "CFO", photo: team_4 },
+    { id: 4, name: "GRANDHI HEMANTH", designation: "CFO (chief finical officer)", photo: team_4 },
     { id: 5, name: "Mamindla Vamshi", designation: "FULL STACK DEVELOPER", photo: team_5 },
-    // { id: 6, name: "Nallagonda Akhil", designation: "CFO", photo: team_6 },
+    // { id: 6, name: " SURYA KAMAL  ❤️ Priya  ", designation: "HR", photo: team_1 },
 
   ];
 
